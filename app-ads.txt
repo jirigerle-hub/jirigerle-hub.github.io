@@ -1,3 +1,1 @@
-# app-ads.txt
-# Add your advertising network entries here
-# Format: <ad_system_domain>, <publisher_account_id>, <account_type>, <certification_authority_id>
+google.com, pub-9401333398441765, DIRECT, f08c47fec0942fa0
