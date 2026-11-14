@@ -151,3 +151,91 @@ taurusx.com, 70079, RESELLER
 targetbetter.com, 82228, RESELLER
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+netmarvel.com, 1011828, RESELLER, ca3509163a633862
+media.net, 8CU9B72O6, RESELLER
+media.net, 8CU5L226O, RESELLER
+playwire.com, 1018531, RESELLER
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+smartclip.net, 14679, RESELLER
+smartclip.net, 15458, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+monetrix.ai, 10761, RESELLER
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 703273072, RESELLER
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
+media.net, 8CAXEGFDP, RESELLER
+brightmountainmedia.com, 2686958, RESELLER
+freewheel.tv, 741650, RESELLER
+spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
+vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+media.net, 8CUSC3UJ7, RESELLER
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-EB, RESELLER
+video.unrulymedia.com, 201313863, RESELLER
+stroeer.com, 17379, RESELLER
+taurusx.com, 70097, RESELLER
+loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
+video.unrulymedia.com, 947824792, RESELLER
+pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
+smartadserver.com, 3964, RESELLER
+themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+bigo.sg, adidz3dyfp, RESELLER
+playdigo.com, 1965, RESELLER
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
+smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
+openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+connekt.ai, 5585919044, RESELLER
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
+nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+xandr.com, 7353, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
+start.io, 131192070, RESELLER
+bid-matrix.com, f2c71a45ea149366, RESELLER
+vidoomy.com, 8953515, RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+brightcom.com, 23120, RESELLER
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+zetaglobal.net, 525, RESELLER
+bluexad.ai, 1996418805747683328, RESELLER
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+media.net, 8CUUQ286L, RESELLER
+media.net, 8CU675N41, RESELLER
+openx.com, 565175463, RESELLER, 6a698e2ec38604c6
+thunder-monetize.com, 2158729563, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+copper6.com, 766114, RESELLER
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+
+google.com, pub-9401333398441765, DIRECT, f08c47fec0942fa0
